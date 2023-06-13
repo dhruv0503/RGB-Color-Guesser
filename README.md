@@ -1,3 +1,2 @@
-# Projects
-# This repository contains the projects I made while learning web deveopment
-# 1 - The RGB Color Guesser - As the name suggests its a game where we have to select the color with the rgb values given.
+This project includes the early day practise of my web development learning. I've used basic HTML, CSS and JS to create this project.
+In this project I have created some squares which will be given random rgb values and will show the corresponding color. The task for the user is to figure out which of the given squares matches the rgb values given on the webpage.
